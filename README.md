@@ -19,6 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ADVPL](https://img.shields.io/badge/ADVPL-8B0000?style=for-the-badge&logo=totvs&logoColor=white)
 
+<!--
 ## 🌸 projetos em destaque
 
 <a href="https://github.com/algabg1/advpl-projeto-pratico-gestao-de-contratos">
@@ -39,7 +40,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algabg1&layout=compact&theme=merko&hide_border=true"/>
 
 </div>
-
+-->
 <div align="center">
 
 *feito com 🤍 pela gab*
