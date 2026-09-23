@@ -9,8 +9,8 @@
 
 ## ˚˖𓍢ִ໋❀ ooi, eu sou a Gab!
 
-- 🔧 em transição para desenvolvimento
-- 📚 atualmente estudando **ADVPL**
+- 🔧 dev junior
+- 📚 atualmente estudando **ADVPL/Protheus** e **TOTVS Fluig**
 - 🌱 sempre aprendendo algo novo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
